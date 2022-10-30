@@ -1,4 +1,4 @@
-#Code written for IBM Call for code 2K22 (SwachBin)
+# SwachBin-Camera Module
 import cv2
 from time import sleep
 videoCaptureObject = cv2.VideoCapture(0)

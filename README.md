@@ -1,1 +1,1 @@
-# SwatchBin-CameraModule
+# SwachBin-CameraModule

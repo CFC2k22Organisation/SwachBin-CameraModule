@@ -1,6 +1,6 @@
 # SwachBin-CameraModule
 
-![Logo](./images/connect-camera.gif)
+![Logo](./images/camera-connect.gif)
 
 Instructions:
 1.	Ensure the VNC option in your raspberrypi is turned ON.
